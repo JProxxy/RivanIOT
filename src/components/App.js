@@ -1,22 +1,23 @@
-import "../css/App.css";
-import { HashRouter as Router, Routes, Route } from "react-router-dom"; // Use HashRouter
+import React from 'react';
+import { HashRouter, Routes, Route } from 'react-router-dom'; // Ensure HashRouter is imported
 import LoginForm from "./LoginForm";
-import SignUp from "./SignUp"; // Import SignUp component
-import ForgotPass from "./ForgotPass"; // Import ForgotPass component
+import SignUp from "./SignUp"; 
+import ForgotPass from "./ForgotPass"; 
+import "../css/App.css";
 
 function App() {
   return (
-    <Router> {/* Wrap everything in Router for routing */}
+    <HashRouter>
       <div className="login">
         <div className="backgroudndImg">
           <Routes>
-            <Route path="/" element={<LoginForm />} /> {/* Default route to LoginForm */}
-            <Route path="/signup" element={<SignUp />} /> {/* Route for SignUp */}
-            <Route path="/forgot-password" element={<ForgotPass />} /> {/* Route for ForgotPass */}
+            <Route path="/" element={<LoginForm />} />
+            <Route path="/signup" element={<SignUp />} />
+            <Route path="/forgot-password" element={<ForgotPass />} />
           </Routes>
         </div>
       </div>
-    </Router>
+    </HashRouter>
   );
 }
 
