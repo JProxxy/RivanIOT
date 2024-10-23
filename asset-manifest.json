@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/JProxxy/RivanIOT.git/static/css/main.b00bb69f.css",
+    "main.js": "/JProxxy/RivanIOT.git/static/js/main.af51c18a.js",
+    "static/js/453.cc63ae69.chunk.js": "/JProxxy/RivanIOT.git/static/js/453.cc63ae69.chunk.js",
+    "static/media/background.png": "/JProxxy/RivanIOT.git/static/media/background.f3b17f39e0371df7f3ed.png",
+    "static/media/frontImg.png": "/JProxxy/RivanIOT.git/static/media/frontImg.9a7c5afa4585ae5c177b.png",
+    "static/media/Kodchasan-Regular.ttf": "/JProxxy/RivanIOT.git/static/media/Kodchasan-Regular.8a7571b47275c38d5d7d.ttf",
+    "index.html": "/JProxxy/RivanIOT.git/index.html",
+    "main.b00bb69f.css.map": "/JProxxy/RivanIOT.git/static/css/main.b00bb69f.css.map",
+    "main.af51c18a.js.map": "/JProxxy/RivanIOT.git/static/js/main.af51c18a.js.map",
+    "453.cc63ae69.chunk.js.map": "/JProxxy/RivanIOT.git/static/js/453.cc63ae69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b00bb69f.css",
+    "static/js/main.af51c18a.js"
+  ]
+}
