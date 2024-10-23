@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/RivanIOT/static/css/main.1a27d42d.css",
-    "main.js": "/RivanIOT/static/js/main.08d4e641.js",
+    "main.js": "/RivanIOT/static/js/main.0e2a0ecb.js",
     "static/js/453.cc63ae69.chunk.js": "/RivanIOT/static/js/453.cc63ae69.chunk.js",
     "static/media/background.png": "/RivanIOT/static/media/background.f3b17f39e0371df7f3ed.png",
     "static/media/frontImg.png": "/RivanIOT/static/media/frontImg.9a7c5afa4585ae5c177b.png",
     "static/media/Kodchasan-Regular.ttf": "/RivanIOT/static/media/Kodchasan-Regular.8a7571b47275c38d5d7d.ttf",
     "index.html": "/RivanIOT/index.html",
     "main.1a27d42d.css.map": "/RivanIOT/static/css/main.1a27d42d.css.map",
-    "main.08d4e641.js.map": "/RivanIOT/static/js/main.08d4e641.js.map",
+    "main.0e2a0ecb.js.map": "/RivanIOT/static/js/main.0e2a0ecb.js.map",
     "453.cc63ae69.chunk.js.map": "/RivanIOT/static/js/453.cc63ae69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a27d42d.css",
-    "static/js/main.08d4e641.js"
+    "static/js/main.0e2a0ecb.js"
   ]
 }
