@@ -1,5 +1,5 @@
 import "../css/App.css";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom"; // Import Router and Routes
+import { HashRouter as Router, Routes, Route } from "react-router-dom"; // Use HashRouter
 import LoginForm from "./LoginForm";
 import SignUp from "./SignUp"; // Import SignUp component
 import ForgotPass from "./ForgotPass"; // Import ForgotPass component
